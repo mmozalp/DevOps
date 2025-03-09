@@ -7,7 +7,6 @@
 
 ## Table of contents
 
-- [Mind Map for outlining essential topics](https://kananinirav.com/mind-map-aws-ccp.html)
 - [Study Guide](./study-guide.md)
 - [Cloud Computing](./sections/cloud_computing.md)
   - What is Cloud Computing?, AWS Global Infrastructure, Shared Responsibility Model
