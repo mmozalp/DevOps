@@ -79,8 +79,5 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 <div class="hide-star">
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kananinirav/AWS-Certified-Cloud-Practitioner-Notes&type=Date)](https://star-history.com/#kananinirav/AWS-Certified-Cloud-Practitioner-Notes&Date)
 
 </div>
