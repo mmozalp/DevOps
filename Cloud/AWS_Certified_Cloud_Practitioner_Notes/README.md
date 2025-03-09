@@ -50,7 +50,7 @@
 
 ## Practice Exams ( dumps )
 
-- **[Practice Exam List](https://kananinirav.com/practice-exam/exams.html)**
+- **[Practice Exam List](sections/practice-exam)**
 
 ## Other AWS And Azure Certification Notes
 
