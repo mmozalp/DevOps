@@ -50,7 +50,7 @@
 
 ## Practice Exams ( dumps )
 
-- **[Practice Exam List](sections/practice-exam/exam.md)**
+- **[Practice Exam List](sections/practice-exam/exams.md)**
 
 ## Other AWS And Azure Certification Notes
 
